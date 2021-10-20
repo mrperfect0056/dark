@@ -22,3 +22,9 @@ git clone https://github.com/mrperft0056/dark.git
 cd dark
 ls
 python2 devil.py
+
+
+
+
+USER:MR
+PASS:DEVIL
