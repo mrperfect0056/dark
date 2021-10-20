@@ -1,8 +1,6 @@
-#dark tool
+Use#dark tool
 
 ***** Login Menu *****
-
-Login Using Fb Id Token
 
 Login Using Number & password
 
@@ -20,6 +18,11 @@ Login Using Number & password
 
 
 ***** Installation *****
+pkg update
+
+pkg upgrade
+
+pkg install python
 
 pkg install python2
 
@@ -31,12 +34,9 @@ pip2 install futures
 
 pip2 install bs4
 
-git clone https://github.com/mrperft0056/
+git clone https://github.com/mrperft0056/dark.git
 
 ***** Usage *****
-
-cd 
-
+cd dark
 ls
-
-python2 zmbf.py
+python2 devil.py
