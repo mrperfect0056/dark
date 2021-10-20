@@ -1,22 +1,5 @@
 Use#dark tool
 
-***** Login Menu *****
-
-Login Using Number & password
-
-***** Cracking Menu *****
-
-[01] Crack From Friends
-
-[02] Crack From Public
-
-[03] Crack From Followers
-
-[04] Crack From Public Followers
-
-[05] Check Cracked Checkpoint Accounts
-
-
 ***** Installation *****
 pkg update
 
