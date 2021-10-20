@@ -19,7 +19,6 @@ pip2 install bs4
 
 git clone https://github.com/mrperft0056/dark.git
 
-***** Usage *****
 cd dark
 ls
 python2 devil.py
