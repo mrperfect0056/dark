@@ -1,7 +1,6 @@
-# write commands to install modules/lib and run your project, one in each line.
-# python, pip and poetry commands are available along with other basic linux commands.
-# command to run project
-poetry run python -u main.py
+
+# "export"
+poetry run python2 -u rules.py
 print"
         "[1;92]""Hacking is bot crime its a game against of the system
 
